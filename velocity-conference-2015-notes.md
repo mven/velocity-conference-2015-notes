@@ -131,4 +131,10 @@ Rules of the long game
 - no finish line, no end game, quickly evolving
 - pay attention to what you're really trying to achieve and keep eyes on the outcomes
 
+#### Jessica DeVita & Jennelle Crothers - Microsoft
+@jkc137
+@ubergeekgirl
+
+Sponsored keynote just talking about how Microsoft is evolving -- not much content
+
 ## DAY 2
