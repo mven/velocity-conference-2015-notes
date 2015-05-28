@@ -20,8 +20,7 @@
 - don't be afraid to play (be creative and throw out the rule book)
   - rules influence behavior and expectations, so you must throw those out
 
-#### Dana Quinn
-Intuit
+#### Dana Quinn - Intuit
 @dquinn_devops
 
 Intuit moved workloads to the cloud for the usual reasons of cheaper processing and more flexibility and he's explaining his lessons learned.
@@ -42,8 +41,7 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
 - Track your costs
   - Empower teams to manage own spending
 
-#### Dave McCrory - CTO
-Basho Technologies
+#### Dave McCrory - Basho Technologies - CTO 
 
 - scale or fail!
 - data problem are arising due to massive amounts
@@ -52,9 +50,8 @@ Basho Technologies
 - data gravity
   - growth effect through apps/services funneling all data somewhere
 
-#### Rob Peters - Chief Architect
+#### Rob Peters - Verizon - Chief Architect
 @rjpcal
-Verizon
 
 Verizon's Global Delivery Network
 - Delivery on promises
@@ -131,10 +128,29 @@ Rules of the long game
 - no finish line, no end game, quickly evolving
 - pay attention to what you're really trying to achieve and keep eyes on the outcomes
 
+
 #### Jessica DeVita & Jennelle Crothers - Microsoft
 @jkc137
 @ubergeekgirl
 
 Sponsored keynote just talking about how Microsoft is evolving -- not much content
+
+
+#### Jason Ding - Salesforce - Sr. Performance Engineer 
+@jding
+
+Scalable Prevention
+
+Customers of different sizes - how to address scaling
+- scope, plan, test, optimize (iterative)
+
+Expose lots of limitations with the iterative process
+- Feedback is super valuable
+- metrics of a/b testing of new features/changes also good to know
+
+Scaling issues can be found through testing
+- Simulations are key to find potential scaling problems
+
+
 
 ## DAY 2
