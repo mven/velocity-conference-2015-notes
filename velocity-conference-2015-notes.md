@@ -194,9 +194,72 @@ Most of this content is about empthy and consideration for outside factors. Pret
 *Feedback for speaker: Pretty serious tone, could use a joke or two to lighten the mood. Most content designers would know about.*
 
 
-#### Zach Leatherman - Filament Group
+#### Zach Leatherman [@zachleat](https://twitter.com/zachleat) - Filament Group
 **The performance and usability of font loading**
 
+@font-face
+
+- default behavior is harmful for the web
+
+@font-face usage
+- 47% on top of 1000 websites
+- avg 97kb payload per site
+- impact of fonts aren't as bad as images
+
+Not all requests are created equal
+
+Web fonts have non trivial performance on web pages
+
+1) Trigger a font download
+- showing font-face syntax/declaration in css
+- formats
+  - WOFF/WOFF2 (30% smaller than woff - use this instead)
+  - TTF
+  - don't use SVG, lots of bugs
+
+If font isn't used, then it isn't downloaded
+Browsers will download the font differently
+- Some will download when content is in element, some won't 
+
+Unicode Range only allows a font to be downloaded (request) if a character matches the unicode range
+
+`font-family`, `font-weight`, `font-style` are declarations that become 
+
+"faux bold" or "faux italic" are terms to describe a font synthesis that happens when the browser programmatically figures out how much weight or style to give the font
+- Font Synthesis only support by Firefox
+
+Instagram uses the <i> element for a login button which forced the page to download a font. Could have saved ~13k if set the `i` element to font-style: normal;
+
+
+2) Behavior of page while downloading
+
+While font-face is downloading
+- see invisible text
+- font loads, rerender text using webfont (flash of invisible text)
+
+Showing examples of slow performance on Apple, Instagram, Facebook
+
+Flash of Unstyled Text (FOUT)
+
+Not just a performance problem, but it also affects the integrity of the content
+Showing example of Mitt Romney headline where 'not' text wasn't loading due to the slow font loading. Changed the full meaning of headline.
+
+Anti-patterns
+- CSS onload
+  - Overreliance on it
+- Async CSS
+  - Same problem of blocking as CSS onload technique
+  - Filament group has discussion on this https://github.com/filamentgroup/loadCSS
+
+Embrace more FOUT instead of FOIT
+- font-rendering css property (not supported yet)
+- css font loading api (js lib)
+
+Takeaways
+- Lots of tools to ease transition to web fonts to fallback fonts
+- Default browser rendering of fonts is harmful to web font loading
+- Thoughts about Flash of Faux Text http://www.zachleat.com/web/foft/
+- Can use the css font loading polyfill for the time being [https://github.com/bramstein/fontloader](https://github.com/bramstein/fontloader) [http://dev.w3.org/csswg/css-font-loading/](http://dev.w3.org/csswg/css-font-loading/)
 
 
 ## DAY 2
