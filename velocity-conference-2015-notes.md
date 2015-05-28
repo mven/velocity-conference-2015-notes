@@ -142,7 +142,7 @@ Rules of the long game
 *Feedback for speaker: Informative speaker and good content about scaling challenges. She'd be a good contact for advice or someone to follow.*
 
 
-#### Jessica DeVita [@jkc137](https://twitter.com/jkc137) & Jennelle Crothers [@ubergeekgirl](https://twitter.com/ubergeekgirl) - Microsoft
+#### Jessica DeVita [@ubergeekgirl](https://twitter.com/ubergeekgirl) & Jennelle Crothers [@jkc137](https://twitter.com/jkc137) - Microsoft
 **Not your parents' Microsoft**
 
 Sponsored keynote just talking about how Microsoft is evolving -- not much content
