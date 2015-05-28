@@ -261,5 +261,52 @@ Takeaways
 - Thoughts about Flash of Faux Text http://www.zachleat.com/web/foft/
 - Can use the css font loading polyfill for the time being [https://github.com/bramstein/fontloader](https://github.com/bramstein/fontloader) [http://dev.w3.org/csswg/css-font-loading/](http://dev.w3.org/csswg/css-font-loading/)
 
+#### Steve Souders [@souders](https://twitter.com/souders) - SpeedCurve
+**Design+Performance**
+
+Design / Devs are complementary forces to achieve same goal
+
+Some designers have lack of awareness about performance
+- This should be a goal for developers to create this awareness
+
+
+- create small interdisciplinary teams
+- set some guiding principles
+  - "speed is more important than design embellishment"
+- prototype early in code, not photoshop
+  - use photoshop for assets
+- measure the performance
+  - set up "performance budgets"
+  - Etsy has a bar of performance metrics at top of page for staff members to see
+    - "in-page reminders"
+  - SpeedCurve has a bookmarklet that shows all the data being gathered during the page visit
+
+Page load time doesn't equate to good user experience
+
+webpagetest tool
+- Speed Index is basically a median for the render time of pixels (when 50% of pixels have been rendered)
+
+Comparison video of gmail and amazon that shows finish loading time
+
+Hero image delay
+- took only 500ms to download, but took 2.5s-3s to show on the page
+- turns out that js/css blocking images
+
+Preloading scripts
+- putting js at bottom of page before body isn't a good practice anymore
+- on bottom, it gives them higher priority to download
+
+Custom Metrics
+- define most important elements 
+- measure user User Timing api
+- track with RUM and synthetic
+
+Takeaways
+- figure out what matters most to users
+- forcus on UX exp/perf
+- define custom metrics
+
+
+
 
 ## DAY 2
