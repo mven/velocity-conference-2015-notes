@@ -148,7 +148,7 @@ Rules of the long game
 Sponsored keynote just talking about how Microsoft is evolving -- not much content
 
 
-#### Jason Ding (@jding) - Salesforce
+#### Jason Ding [@jding](https://twitter.com/jding) - Salesforce
 **Prevent, rather than fix: How to scale to enable your customers**
 
 Scalable Prevention
