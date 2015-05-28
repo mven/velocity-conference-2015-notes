@@ -7,7 +7,7 @@
 #### Housekeeping
 - leave feedback to speakers; rate
 
-#### Laura Bell (@lady_nerd) - SafeStack
+#### Laura Bell [@lady_nerd](https://twitter.com/lady_nerd) - SafeStack
 
 **Securing organizations through bad behavior**
 
@@ -24,7 +24,7 @@
 *Feedback for speaker: Good awareness session on securing your app or system. She was entertaining and the metaphors (artisan box with a cat in it) she used in the beginning were carried successfully throughout her talk. *
 
 
-#### Dana Quinn (@dquinn_devops) - Intuit
+#### Dana Quinn [@dquinn_devops](https://twitter.com/dquinn_devops) - Intuit
 **Lessons learned for large-scale apps running in a hybrid cloud environment – Intuit’s journey**
 
 Intuit moved workloads to the cloud for the usual reasons of cheaper processing and more flexibility and he's explaining his lessons learned.
@@ -59,7 +59,7 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
   - growth effect through apps/services funneling all data somewhere
 
 
-#### Rob Peters (@rjpcal) - Verizon Digital Media Services
+#### Rob Peters [@rjpcal](https://twitter.com/rjpcal) - Verizon Digital Media Services
 **Maintaining performance and reliability on the edge Robert Peters**
 
 Verizon's Global Delivery Network
@@ -84,7 +84,7 @@ Key Takeaways
 *Feedback for speaker: He spoke pretty fast so it was hard to keep up with and not sure he made his point across, but this could be that he only had 5 minutes to present.*
 
 
-#### Astrid Atkinson (@shinynew_oz) - Google
+#### Astrid Atkinson [@shinynew_oz](https://twitter.com/shinynew_oz) - Google
 **Engineering for the long game: Managing complexity in distributed systems**
 
 Managing distributed systems over a really long time
@@ -142,7 +142,7 @@ Rules of the long game
 *Feedback for speaker: Informative speaker and good content about scaling challenges. She'd be a good contact for advice or someone to follow.*
 
 
-#### Jessica DeVita (@jkc137) & Jennelle Crothers (@ubergeekgirl) - Microsoft
+#### Jessica DeVita [@jkc137](https://twitter.com/jkc137) & Jennelle Crothers [@ubergeekgirl](https://twitter.com/ubergeekgirl) - Microsoft
 **Not your parents' Microsoft**
 
 Sponsored keynote just talking about how Microsoft is evolving -- not much content
@@ -192,6 +192,11 @@ Types of empathy (8 but only listing 4)
 Most of this content is about empthy and consideration for outside factors. Pretty abstract talk and somewhat philosophical. Somewhat of a snoozer.
 
 *Feedback for speaker: Pretty serious tone, could use a joke or two to lighten the mood. Most content designers would know about.*
+
+
+#### Zach Leatherman - Filament Group
+**The performance and usability of font loading**
+
 
 
 ## DAY 2
