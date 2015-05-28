@@ -9,7 +9,7 @@
 
 #### Laura Bell [@lady_nerd](https://twitter.com/lady_nerd) - SafeStack
 
-**Securing organizations through bad behavior**
+*Securing organizations through bad behavior*
 
 - security
 - #betteroffbad for questions or comments
@@ -25,7 +25,7 @@
 
 
 #### Dana Quinn [@dquinn_devops](https://twitter.com/dquinn_devops) - Intuit
-**Lessons learned for large-scale apps running in a hybrid cloud environment – Intuit’s journey**
+*Lessons learned for large-scale apps running in a hybrid cloud environment – Intuit’s journey*
 
 Intuit moved workloads to the cloud for the usual reasons of cheaper processing and more flexibility and he's explaining his lessons learned.
 
@@ -49,7 +49,7 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
 
 
 #### Dave McCrory - Basho Technologies 
-**Addressing operational challenges: Building a faster, highly available data tier for active workloads**
+*Addressing operational challenges: Building a faster, highly available data tier for active workloads*
 
 - scale or fail!
 - data problem are arising due to massive amounts
@@ -60,7 +60,7 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
 
 
 #### Rob Peters [@rjpcal](https://twitter.com/rjpcal) - Verizon Digital Media Services
-**Maintaining performance and reliability on the edge Robert Peters**
+*Maintaining performance and reliability on the edge Robert Peters*
 
 Verizon's Global Delivery Network
 - Delivery on promises
@@ -85,7 +85,7 @@ Key Takeaways
 
 
 #### Astrid Atkinson [@shinynew_oz](https://twitter.com/shinynew_oz) - Google
-**Engineering for the long game: Managing complexity in distributed systems**
+*Engineering for the long game: Managing complexity in distributed systems*
 
 Managing distributed systems over a really long time
 What is the "long game"?
@@ -143,13 +143,13 @@ Rules of the long game
 
 
 #### Jessica DeVita [@ubergeekgirl](https://twitter.com/ubergeekgirl) & Jennelle Crothers [@jkc137](https://twitter.com/jkc137) - Microsoft
-**Not your parents' Microsoft**
+*Not your parents' Microsoft*
 
 Sponsored keynote just talking about how Microsoft is evolving -- not much content
 
 
 #### Jason Ding [@jding](https://twitter.com/jding) - Salesforce
-**Prevent, rather than fix: How to scale to enable your customers**
+*Prevent, rather than fix: How to scale to enable your customers*
 
 Scalable Prevention
 
@@ -195,7 +195,7 @@ Most of this content is about empthy and consideration for outside factors. Pret
 
 
 #### Zach Leatherman [@zachleat](https://twitter.com/zachleat) - Filament Group
-**The performance and usability of font loading**
+*The performance and usability of font loading*
 
 @font-face
 
@@ -262,7 +262,7 @@ Takeaways
 - Can use the css font loading polyfill for the time being [https://github.com/bramstein/fontloader](https://github.com/bramstein/fontloader) [http://dev.w3.org/csswg/css-font-loading/](http://dev.w3.org/csswg/css-font-loading/)
 
 #### Steve Souders [@souders](https://twitter.com/souders) - SpeedCurve
-**Design+Performance**
+*Design+Performance*
 
 Design / Devs are complementary forces to achieve same goal
 
@@ -299,7 +299,7 @@ Preloading scripts
 Custom Metrics
 - define most important elements 
 - measure user User Timing api
-- track with RUM and synthetic
+- track with RUM (real-user monitoring) and synthetic (web browsing emulation)
 
 Takeaways
 - figure out what matters most to users
@@ -307,6 +307,60 @@ Takeaways
 - define custom metrics
 
 
+#### Ian Malpass [@indec](https://twitter.com/indec) - Etsy
 
+*Failure is an option*
+
+How to learn from failure
+
+3 truths 
+- we'll create bugs
+- we'll build the wrong thing
+- you'll not forsee the unexpected
+
+Consequences to failure
+- money, time, data, credibility loss
+
+Failure is inevitible, expensive failure isn't
+
+Speed & Trust == flexibility
+
+Etsy has their own deploy tool that is open to *everyone*
+- can deploy any time, but try not to do it during off-hours
+
+Build in small chunks and do code reviews
+- Good learning experience for everyone
+
+When something breaks, roll forward, not roll backward
+- I think he means instead of rolling back to revert changes, they try to fix the bugs to move forward
+
+Mixture of automated/manual testing
+
+`try` program that compares the changes against automation tests
+`princess` program that emulates changes in pre-production before they push to production
+
+"Dark code" - code that isn't executed
+
+"Feature flags" to throttle how many users get the new feature
+- Ability for partial failures by usage of feature flags
+
+Reducing the risk of building the wrong things by doing continous delivery on products
+Continous deployment permits adding/changing/fixing things quicker
+Unlike deployment at every 3-6 months where things need to be just right
+
+Prototypes of new features by asking merchants to be "beta testers"
+
+You can't avoid failure, but you can learn from mistakes
+
+Blameless culture at Etsy
+- post-mortems about what happened
+- learn from mistakes
+- share what they've learned
+- celebrate failure by having annual awards
+
+Push the envelope or else there's no progress
+Don't be timid to make changes
+
+Speed makes us safe
 
 ## DAY 2
