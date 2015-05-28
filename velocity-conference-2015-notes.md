@@ -52,7 +52,28 @@ Basho Technologies
 - data gravity
   - growth effect through apps/services funneling all data somewhere
 
+#### Rob Peters - Chief Architect
+@rjpcal
+Verizon
 
-- Services
+Verizon's Global Delivery Network
+- Delivery on promises
+  - pefromance at the edge
+  - secure by design
+  - verizon-size network
+
+Conway's law to influence organization on technology
+- Conway's law alternate interpretation
+  - Standard
+  - Alternate
+
+Example #1: canary/coalmine tools for release management
+- Showing metrics on changes they can make in continuous releasing
+
+Key Takeaways
+- Tools need clearly defined team 
+- be strategic
+- use/fine tune existing tools
+
 
 ## DAY 2
