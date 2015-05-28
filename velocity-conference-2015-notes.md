@@ -45,5 +45,14 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
 #### Dave McCrory - CTO
 Basho Technologies
 
+- scale or fail!
+- data problem are arising due to massive amounts
+- data consitency challenge
+  - CAP Theorem; tradeoffs in distibuted systems
+- data gravity
+  - growth effect through apps/services funneling all data somewhere
+
+
+- Services
 
 ## DAY 2
