@@ -20,6 +20,9 @@
 - don't be afraid to play (be creative and throw out the rule book)
   - rules influence behavior and expectations, so you must throw those out
 
+*Feedback for speaker: Good awareness session on securing your app or system. She was entertaining and the metaphors (artisan box with a cat in it) she used in the beginning were carried successfully throughout her talk. *
+
+
 #### Dana Quinn - Intuit
 @dquinn_devops
 
@@ -40,6 +43,9 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
 
 - Track your costs
   - Empower teams to manage own spending
+
+*Feedback for speaker: Decent content of the migration of workloads at Intuit. Could have used more key takeaways. *
+
 
 #### Dave McCrory - Basho Technologies - CTO 
 
@@ -72,6 +78,7 @@ Key Takeaways
 - be strategic
 - use/fine tune existing tools
 
+*Feedback for speaker: He spoke pretty fast so it was hard to keep up with and not sure he made his point across, but this could be that he only had 5 minutes to present.*
 
 #### Astrid Atkinson - Google
 @shinynew_oz
@@ -128,6 +135,8 @@ Rules of the long game
 - no finish line, no end game, quickly evolving
 - pay attention to what you're really trying to achieve and keep eyes on the outcomes
 
+*Feedback for speaker: Informative speaker and good content about scaling challenges. She'd be a good contact for advice or someone to follow.*
+
 
 #### Jessica DeVita & Jennelle Crothers - Microsoft
 @jkc137
@@ -151,6 +160,35 @@ Expose lots of limitations with the iterative process
 Scaling issues can be found through testing
 - Simulations are key to find potential scaling problems
 
+*Feedback for speakers: Not so much valuble content, since it was a sponsored keynote. Lots of energy and some humorous slides/memes. I didn't need my coffee during this presentation.*
+
+
+#### Indy Young
+
+Empathy
+
+Solving issues
+- brainstorm with as many people as you can; this will increase your creativity
+- subconsious will syntehsize all the ideas floating around when your brain is relaxed
+
+Empathy
+- be more sensitive
+- emotionally aware
+
+How do you apply this to operations or development?
+
+Types of empathy (8 but only listing 4)
+- mirrored empathy
+  - smiling at another, and receiving a smile back
+- personal distress
+  - empathy for someone who "cuts their finger in the kitchen"
+- effective empathy
+  - feeling same emotion another person feeling
+- emotional empathy
+
+Most of this content is about empthy and consideration for outside factors. Pretty abstract talk and somewhat philosophical. Somewhat of a snoozer.
+
+*Feedback for speaker: Pretty serious tone, could use a joke or two to lighten the mood. Most content designers would know about.*
 
 
 ## DAY 2
