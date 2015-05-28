@@ -228,7 +228,7 @@ Unicode Range only allows a font to be downloaded (request) if a character match
 "faux bold" or "faux italic" are terms to describe a font synthesis that happens when the browser programmatically figures out how much weight or style to give the font
 - Font Synthesis only support by Firefox
 
-Instagram uses the <i> element for a login button which forced the page to download a font. Could have saved ~13k if set the `i` element to font-style: normal;
+Instagram uses the `<i>` element for a login button which forced the page to download a font. Could have saved ~13k if set the `i` element to font-style: normal;
 
 
 2) Behavior of page while downloading
