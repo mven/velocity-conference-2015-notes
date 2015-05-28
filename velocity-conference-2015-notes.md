@@ -7,8 +7,9 @@
 #### Housekeeping
 - leave feedback to speakers; rate
 
-#### Laura Bell - SafeStack
-@lady_nerd
+#### Laura Bell (@lady_nerd) - SafeStack
+
+**Securing organizations through bad behavior**
 
 - security
 - #betteroffbad for questions or comments
@@ -23,8 +24,8 @@
 *Feedback for speaker: Good awareness session on securing your app or system. She was entertaining and the metaphors (artisan box with a cat in it) she used in the beginning were carried successfully throughout her talk. *
 
 
-#### Dana Quinn - Intuit
-@dquinn_devops
+#### Dana Quinn (@dquinn_devops) - Intuit
+**Lessons learned for large-scale apps running in a hybrid cloud environment – Intuit’s journey**
 
 Intuit moved workloads to the cloud for the usual reasons of cheaper processing and more flexibility and he's explaining his lessons learned.
 
@@ -47,7 +48,8 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
 *Feedback for speaker: Decent content of the migration of workloads at Intuit. Could have used more key takeaways. *
 
 
-#### Dave McCrory - Basho Technologies - CTO 
+#### Dave McCrory - Basho Technologies 
+**Addressing operational challenges: Building a faster, highly available data tier for active workloads**
 
 - scale or fail!
 - data problem are arising due to massive amounts
@@ -56,8 +58,9 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
 - data gravity
   - growth effect through apps/services funneling all data somewhere
 
-#### Rob Peters - Verizon - Chief Architect
-@rjpcal
+
+#### Rob Peters (@rjpcal) - Verizon Digital Media Services
+**Maintaining performance and reliability on the edge Robert Peters**
 
 Verizon's Global Delivery Network
 - Delivery on promises
@@ -80,8 +83,9 @@ Key Takeaways
 
 *Feedback for speaker: He spoke pretty fast so it was hard to keep up with and not sure he made his point across, but this could be that he only had 5 minutes to present.*
 
-#### Astrid Atkinson - Google
-@shinynew_oz
+
+#### Astrid Atkinson (@shinynew_oz) - Google
+**Engineering for the long game: Managing complexity in distributed systems**
 
 Managing distributed systems over a really long time
 What is the "long game"?
@@ -138,15 +142,14 @@ Rules of the long game
 *Feedback for speaker: Informative speaker and good content about scaling challenges. She'd be a good contact for advice or someone to follow.*
 
 
-#### Jessica DeVita & Jennelle Crothers - Microsoft
-@jkc137
-@ubergeekgirl
+#### Jessica DeVita (@jkc137) & Jennelle Crothers (@ubergeekgirl) - Microsoft
+**Not your parents' Microsoft**
 
 Sponsored keynote just talking about how Microsoft is evolving -- not much content
 
 
-#### Jason Ding - Salesforce - Sr. Performance Engineer 
-@jding
+#### Jason Ding (@jding) - Salesforce
+**Prevent, rather than fix: How to scale to enable your customers**
 
 Scalable Prevention
 
