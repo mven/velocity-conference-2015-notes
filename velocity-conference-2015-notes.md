@@ -751,5 +751,5 @@ Takeaways
 
 
 ### PARKING LOT
-- Lots of mentions of automated testing in relation with continuous cycle: Should designers give requirements early to dev team before wireframes come out? Do they already do?
+- Lots of mentions of automated testing in relation with continuous cycle: Should designers give requirements early to dev team before wireframes come out? Does this already happen?
 
