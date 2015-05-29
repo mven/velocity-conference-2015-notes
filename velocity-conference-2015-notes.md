@@ -596,3 +596,113 @@ Cluster of nodes on a system that Kubernetes works with
 Real world demo time
 - showing how powerful kubernetes can be with container management
 - impressive example of rolling out new app deployment using rolling upgrade with Canary(?) pattern
+
+
+#### Making continuous delivery a reality at a large enterprise 
+*Adam Auerbach [@bugman31](https://twitter.com/bugman31) - Capital One*
+
+Advanced Testing 
+Agile transformation of testing group
+drive towards continuous delivery
+
+Capital One more than bank company, they have retail, digital apps, etc.
+
+CO Tech structure
+- Shared Tech services
+- LOB Tech org
+
+DevOps & Agile
+
+Agile Tranformation
+- in the past, waterfall we got really good at
+  - everyone had a role/task
+
+Leveraged Scaled Agile Framework (SAFe) http://www.scaledagileframework.com/
+- could get teams get up and running quickly
+- ten teams in a few months
+- release planning party every 3 months
+
+Over 700 agile teams at CO
+
+Agile training saw success
+- devliery from 6 months to 3 months
+- release planning much better
+- align people on trains?
+
+Opportunities
+- dev sprints
+- testing sprints
+- integration / hardening
+
+Challenge
+- Couldn't get anything out the door under 12 months
+
+Creation of something called a System Team
+- teams composed of release management, config mgmt, continuous builds/deployments, etc..
+- aligned to 10 teams, 10-12 people on team
+- represent release mgmnt
+- ci (continuous integration)
+- problem of not having enough bandwidth for each team to complete goals
+
+Created standards for the teams to refer to
+- place for source, templates, builds cycles
+
+Lessons learned from System Teams
+- treat as a new agile team
+  - team members are properly training
+  - team members are fully dedicated
+  - ensure acccess to all tools and systems need (stand)
+- leverage a sprint 0 to focus on grooming backlog
+- focus on early outcomes to develop creditbility
+- scrum works well early but kanban is more sustaining
+- teams will be large initially and reduce as maturity is achieved
+
+System Teams in place, still needed more to address more issues
+
+Continuous testing
+- Implementation of BDD and TDD has permitted faster integration
+- adoption 6-9 months for existing teams, shorter for new teams
+
+Manual testers need to do automated testing
+- they don't have the skills to do this, so training must be involved
+
+Continous Toolsets
+SVN, Git, AWS, Chef, Hudson, uDeploy
+
+New Dashboard
+- Hygieia; OSS coming out soon - realtime view of all their platforms
+
+Service virtualization
+- enables robust testing if env has limitations
+- meaning if front end is ready to test, but API isn't, you can virtualize the service
+
+Test data
+- tool built to support System Teams
+
+Many processes for automated and continuous integration/deployment
+Many checks and balances through tools to maintain  
+
+Key Metrics
+- output (will be replaced by cycle time)
+- speed
+- quality
+
+Key outcomes
+- drive adoption across the company, teams working together to advocate, showing results
+- enterprise support groups help minimize upgront costs to getting started
+
+Value Stream Analysis
+- tool to communicate ROI for leadership hesitant to invest
+- 6 person team, single person dedicated to builds, deployment, 
+- 1 week increments (pic on phone)
+
+Other lessons learned
+- reuse proven frameworks
+- evangelists at every level/discipline
+- education for everyone
+- leverage dedicated resources who support/nurture the community
+- be prepared
+
+
+#### Engineering transformation: Everyone owns quality 
+Huseyin Dursun - VMware
