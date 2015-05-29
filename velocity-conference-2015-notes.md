@@ -452,14 +452,14 @@ Opera Mini focuses on compression and compatibility
 
 
 #### Great, you're now a software company. Now what?
-*Patrick Lightbody - New Relic*
+*Patrick Lightbody [@plightbo](https://twitter.com/plightbo) - New Relic*
 
 - All businesses are becoming a software companies
 - Social has transformed companies 
 
 
 #### Twenty thousands leagues inside the optical fiber 
-*Ariya Hidayat - Shape Security*
+*Ariya Hidayat [@AriyaHidayat](https://twitter.com/AriyaHidayat) - Shape Security*
 
 Distance of communications can be a problem
 
@@ -495,9 +495,8 @@ DevOps is a prerequisite for IoT
 Agile wasn't meant for enterprise, but can be
 
 
-
 #### Overcoming the challenges of image delivery 
-*Mohammed Aboul-Magd - Akamai Technologies*
+*Mohammed Aboul-Magd [@mohammedam](https://twitter.com/mohammedam) - Akamai Technologies*
 
 Users demand rich experiences
 
@@ -516,12 +515,47 @@ Akamai Image Manager
 - upload raw images > automatic policy/rules -> delivery?
 
 
-
 #### Reflections on mountain moving, from the first year of USDS 
 *Mikey Dickerson - Federal Government | United States Digital Services Team*
 
+Healthcare.gov funding for 20m in 2015
+
+Congress passed bill in 2016 for 100+m
+
+Processes such as green card replacements or VA claims had vast improvement by placing necessary materials and applications online
+
+Not interested in being Bunjee bosses, not interested in making app for agency, then disappearing
+
+
 #### Measurement is not enough: The rise of performance analytics 
-*Buddy Brewer - SOASTA*
+*Buddy Brewer [@bbrewer](https://twitter.com/bbrewer) - SOASTA*
+
+Relationships between data and people
+
+Performance has a specific set of meanings to different people
+
+User's definition of performance is unique
+
+People's "languages" are different so it's important to create relationships of different meanings on performance
+
 
 #### Recruiting for diversity in tech 
-*Laine Campbell - Pythian*
+*Laine Campbell [@LaineVCampbell](https://twitter.com/LaineVCampbell) - Pythian*
+
+All employees are recruiting for a company (actively/passively), your actions, your language
+
+Reduce skepticism in recruiting
+
+create a culture of forgiveness, don't be afraid to speak out
+
+Diversity is 2-dimensional
+
+STEM will be the next middle class
+- could bring us back to balance
+
+meritocracy is broken
+- governing group makes up teams
+- group would rather hire for comfort than diversity
+
+businesses should have codes of conduct
+
