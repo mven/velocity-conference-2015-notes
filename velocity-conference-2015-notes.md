@@ -7,9 +7,8 @@
 #### Housekeeping
 - leave feedback to speakers; rate
 
-#### Laura Bell [@lady_nerd](https://twitter.com/lady_nerd) - SafeStack
-
-*Securing organizations through bad behavior*
+#### Securing organizations through bad behavior
+*Laura Bell [@lady_nerd](https://twitter.com/lady_nerd) - SafeStack*
 
 - security
 - #betteroffbad for questions or comments
@@ -21,11 +20,11 @@
 - don't be afraid to play (be creative and throw out the rule book)
   - rules influence behavior and expectations, so you must throw those out
 
-*Feedback for speaker: Good awareness session on securing your app or system. She was entertaining and the metaphors (artisan box with a cat in it) she used in the beginning were carried successfully throughout her talk. *
+Feedback for speaker: Good awareness session on securing your app or system. She was entertaining and the metaphors (artisan box with a cat in it) she used in the beginning were carried successfully throughout her talk.
 
 
-#### Dana Quinn [@dquinn_devops](https://twitter.com/dquinn_devops) - Intuit
-*Lessons learned for large-scale apps running in a hybrid cloud environment – Intuit’s journey*
+#### Lessons learned for large-scale apps running in a hybrid cloud environment – Intuit’s journey
+*Dana Quinn [@dquinn_devops](https://twitter.com/dquinn_devops) - Intuit*
 
 Intuit moved workloads to the cloud for the usual reasons of cheaper processing and more flexibility and he's explaining his lessons learned.
 
@@ -45,11 +44,11 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
 - Track your costs
   - Empower teams to manage own spending
 
-*Feedback for speaker: Decent content of the migration of workloads at Intuit. Could have used more key takeaways. *
+Feedback for speaker: Decent content of the migration of workloads at Intuit. Could have used more key takeaways.
 
 
-#### Dave McCrory - Basho Technologies 
-*Addressing operational challenges: Building a faster, highly available data tier for active workloads*
+#### Addressing operational challenges: Building a faster, highly available data tier for active workloads
+*Dave McCrory - Basho Technologies*
 
 - scale or fail!
 - data problem are arising due to massive amounts
@@ -59,8 +58,8 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
   - growth effect through apps/services funneling all data somewhere
 
 
-#### Rob Peters [@rjpcal](https://twitter.com/rjpcal) - Verizon Digital Media Services
-*Maintaining performance and reliability on the edge Robert Peters*
+#### Maintaining performance and reliability on the edge
+*Rob Peters [@rjpcal](https://twitter.com/rjpcal) - Verizon Digital Media Services*
 
 Verizon's Global Delivery Network
 - Delivery on promises
@@ -81,11 +80,11 @@ Key Takeaways
 - be strategic
 - use/fine tune existing tools
 
-*Feedback for speaker: He spoke pretty fast so it was hard to keep up with and not sure he made his point across, but this could be that he only had 5 minutes to present.*
+Feedback for speaker: He spoke pretty fast so it was hard to keep up with and not sure he made his point across, but this could be that he only had 5 minutes to present.
 
 
-#### Astrid Atkinson [@shinynew_oz](https://twitter.com/shinynew_oz) - Google
-*Engineering for the long game: Managing complexity in distributed systems*
+#### Engineering for the long game: Managing complexity in distributed systems
+*Astrid Atkinson [@shinynew_oz](https://twitter.com/shinynew_oz) - Google*
 
 Managing distributed systems over a really long time
 What is the "long game"?
@@ -142,14 +141,14 @@ Rules of the long game
 *Feedback for speaker: Informative speaker and good content about scaling challenges. She'd be a good contact for advice or someone to follow.*
 
 
-#### Jessica DeVita [@ubergeekgirl](https://twitter.com/ubergeekgirl) & Jennelle Crothers [@jkc137](https://twitter.com/jkc137) - Microsoft
-*Not your parents' Microsoft*
+#### Not your parents' Microsoft
+*Jessica DeVita [@ubergeekgirl](https://twitter.com/ubergeekgirl) & Jennelle Crothers [@jkc137](https://twitter.com/jkc137) - Microsoft*
 
 Sponsored keynote just talking about how Microsoft is evolving -- not much content
 
 
-#### Jason Ding [@jding](https://twitter.com/jding) - Salesforce
-*Prevent, rather than fix: How to scale to enable your customers*
+#### Prevent, rather than fix: How to scale to enable your customers
+*Jason Ding [@jding](https://twitter.com/jding) - Salesforce*
 
 Scalable Prevention
 
@@ -163,10 +162,11 @@ Expose lots of limitations with the iterative process
 Scaling issues can be found through testing
 - Simulations are key to find potential scaling problems
 
-*Feedback for speakers: Not so much valuble content, since it was a sponsored keynote. Lots of energy and some humorous slides/memes. I didn't need my coffee during this presentation.*
+Feedback for speakers: Not so much valuble content, since it was a sponsored keynote. Lots of energy and some humorous slides/memes. I didn't need my coffee during this presentation.
 
 
-#### Indy Young
+#### A practical type of empathy
+*Indy Young [@indiyoung](https://twitter.com/indiyoung)*
 
 Empathy
 
@@ -194,8 +194,8 @@ Most of this content is about empthy and consideration for outside factors. Pret
 *Feedback for speaker: Pretty serious tone, could use a joke or two to lighten the mood. Most content designers would know about.*
 
 
-#### Zach Leatherman [@zachleat](https://twitter.com/zachleat) - Filament Group
-*The performance and usability of font loading*
+#### The performance and usability of font loading
+*Zach Leatherman [@zachleat](https://twitter.com/zachleat) - Filament Group*
 
 @font-face
 
@@ -261,8 +261,8 @@ Takeaways
 - Thoughts about Flash of Faux Text http://www.zachleat.com/web/foft/
 - Can use the css font loading polyfill for the time being [https://github.com/bramstein/fontloader](https://github.com/bramstein/fontloader) [http://dev.w3.org/csswg/css-font-loading/](http://dev.w3.org/csswg/css-font-loading/)
 
-#### Steve Souders [@souders](https://twitter.com/souders) - SpeedCurve
-*Design+Performance*
+#### Design+Performance
+*Steve Souders [@souders](https://twitter.com/souders) - SpeedCurve*
 
 Design / Devs are complementary forces to achieve same goal
 
@@ -307,9 +307,9 @@ Takeaways
 - define custom metrics
 
 
-#### Ian Malpass [@indec](https://twitter.com/indec) - Etsy
+#### Failure is an option
 
-*Failure is an option*
+*Ian Malpass [@indec](https://twitter.com/indec) - Etsy*
 
 How to learn from failure
 
@@ -363,8 +363,9 @@ Don't be timid to make changes
 
 Speed makes us safe
 
-#### Salil Ahuja - IBM
-*Learn how to build your own cognitive applications with the IBM Watson Developer Cloud*
+
+#### Learn how to build your own cognitive applications with the IBM Watson Developer Cloud
+*Salil Ahuja [@salilahuja](https://twitter.com/salilahuja) - IBM*
 
 Watson creating APIs and used in the cloud
 Asked who's heard of Bluemix (only a few people raised their hands)
@@ -377,8 +378,8 @@ AlchemyData News
 Concept Insights
 
 
-#### Lucasz Pater [lukasz.pater@cern.ch](lukasz.pater@cern.ch) - CERN
-*Maintaining the biggest machine in the world with mobile apps*
+#### Maintaining the biggest machine in the world with mobile apps
+*Lucasz Pater [lukasz.pater@cern.ch](lukasz.pater@cern.ch) - CERN*
 
 CERN
 - Tries to answer deep questions about the universe by simulating atomic big bangs
@@ -415,3 +416,29 @@ No mention of hybrid -- perhaps a plug for MF? :)
 
 
 ## DAY 2
+
+### Keynote
+
+#### Ensuring a performant web for the next billion people
+*Bruce Lawson - Opera*
+
+#### Great, you're now a software company. Now what?
+*Patrick Lightbody - New Relic*
+
+#### Twenty thousands leagues inside the optical fiber 
+*Ariya Hidayat - Shape Security*
+
+#### Beyond the hype cycle; bleeding edge for the enterprise 
+*Shane Evans - Hewlett-Packard*
+
+#### Overcoming the challenges of image delivery 
+*Mohammed Aboul-Magd - Akamai Technologies*
+
+#### Reflections on mountain moving, from the first year of USDS 
+*Mikey Dickerson - Federal Government | United States Digital Services Team*
+
+#### Measurement is not enough: The rise of performance analytics 
+*Buddy Brewer - SOASTA*
+
+#### Recruiting for diversity in tech 
+*Laine Campbell - Pythian*
