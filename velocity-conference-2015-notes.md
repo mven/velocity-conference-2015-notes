@@ -559,3 +559,40 @@ meritocracy is broken
 
 businesses should have codes of conduct
 
+
+#### New ways to deploy and manage applications at scale
+*Kelsey Hightower [@kelseyhightower](https://twitter.com/kelseyhightower) - CoreOS*
+
+**How can the design team gain any takeways from this heavy operations presentation**
+- Engineers love using the terminal and are very efficient
+- Managing some apps with APIs
+
+Using Ansible to automate apps/IT infrastructure
+- great for automating starting instances of apps with variables
+- Not great scaling down because instances will not be shut down when change made to config
+
+Using scheduling (automatic/manual - actual people)
+- must move past shell scripting
+
+Decouple applications from the machines
+- use configs to manage machines not apps
+- better abstraction for apps (containers)
+- use of app centric tools (Kubernetes)
+
+Containers
+- building containers has been problem
+- payload size is really big for others to download
+- ship build artifacts NOT build environments
+- dockerfile can be called a "specification"
+
+Managing containers
+- kubernetes
+- nodes, node manifest (specification)
+- pods, representation of an application (also has a manifest)
+
+Cluster of nodes on a system that Kubernetes works with
+- Relication feature: anytime a pod goes down, kubernetes will find another pod with nodes that match the specification to start up
+
+Real world demo time
+- showing how powerful kubernetes can be with container management
+- impressive example of rolling out new app deployment using rolling upgrade with Canary(?) pattern
