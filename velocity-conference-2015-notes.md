@@ -363,4 +363,55 @@ Don't be timid to make changes
 
 Speed makes us safe
 
+#### Salil Ahuja - IBM
+*Learn how to build your own cognitive applications with the IBM Watson Developer Cloud*
+
+Watson creating APIs and used in the cloud
+Asked who's heard of Bluemix (only a few people raised their hands)
+
+Acquisition of Alchemy Language API
+
+Bluemix is down so live demos can't be shown
+
+AlchemyData News
+Concept Insights
+
+
+#### Lucasz Pater [lukasz.pater@cern.ch](lukasz.pater@cern.ch) - CERN
+*Maintaining the biggest machine in the world with mobile apps*
+
+CERN
+- Tries to answer deep questions about the universe by simulating atomic big bangs
+- Composed of millions of components
+
+Asset Management Challenge at CERN
+- millions of physical assets
+- site infrastructure over 700 buildings, tunnes, caverns roads
+- accelerator complex: supra-conducting magnets, cryogenics, electronics
+
+Mobile Strategy & Architecture
+- developed a native one-size-fits-all app for field engineers
+  - was a disaster due to many outside factors such as expensive devices, training contractors, etc..
+- native app for specific user tasks and HTML5 web apps were a success
+
+Current architecture
+- Infor EAM
+  - Native web interface, SOAP, various auth methods
+
+- Web services hub (JAX-WS/RS + Tomcat)
+  - SOAP, REST, compression, checksumming, caching, extensive logging, web sockets, asynchronous communication
+
+APIs made possible through REST/SOAP
+
+Web Apps possible thanks to HTML5, JS/jQuery
+
+CERN web/mobile apps using localStorage for offline usage
+
+Native-based apps are a challenge because supporting multiple platforms is resource heavy
+
+Availability of high-speed networks and web standards make HTML5 web apps
+
+No mention of hybrid -- perhaps a plug for MF? :)
+
+
 ## DAY 2
