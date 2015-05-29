@@ -420,19 +420,102 @@ No mention of hybrid -- perhaps a plug for MF? :)
 ### Keynote
 
 #### Ensuring a performant web for the next billion people
-*Bruce Lawson - Opera*
+*Bruce Lawson [@brucel](https://twitter.com/brucel) - Opera*
+
+
+4 billion people in asia
+Estimated to explode in growth even further
+
+What do all the nations named in asia have in common
+- people worldwide want to consume same goods/service
+- they visit the similar sites, but majority of visits are on low-end phones
+
+New manifest file developed with light metadata and icon
+
+Responsive images
+- `<picture>`
+- scrset
+...
+
+Proxy Browsers
+- QQ, UC Browser, Puffin, Microsoft Express
+
+Opera mini can render content on their servers, then send compressed binary blob to client
+
+Reduction in features of content during process
+- no web fonts
+- no custom animations
+- no border-radius
+- use svg icons
+
+Opera Mini focuses on compression and compatibility
+
 
 #### Great, you're now a software company. Now what?
 *Patrick Lightbody - New Relic*
 
+- All businesses are becoming a software companies
+- Social has transformed companies 
+
+
 #### Twenty thousands leagues inside the optical fiber 
 *Ariya Hidayat - Shape Security*
+
+Distance of communications can be a problem
+
+History of communications
+- Photophone from Alexander Bell
+- Free space communication
+- Telephone dominance (electricity over light communications)
+
+
+Talking about fiber optics and lasers -- very technical in physics I can't follow lol
+
+Improving new fiber type can get 255 Tb/s over 1km (50 channels x 5.1 Tb/s)
+
+
 
 #### Beyond the hype cycle; bleeding edge for the enterprise 
 *Shane Evans - Hewlett-Packard*
 
+QA & Testing has seen a growth spurt in enterprise
+
+Inability to adopt agile is due to a failure to implement a testing process
+
+Technology adoption curve looks like a chart from marketing (innovators - laggards)
+
+5 billion connected devices by 2015, 
+
+DevOps is a prerequisite for IoT
+
+- Build smarter automation
+- address the legacy, simulate through virtualization 
+- think about the process scalability
+
+Agile wasn't meant for enterprise, but can be
+
+
+
 #### Overcoming the challenges of image delivery 
 *Mohammed Aboul-Magd - Akamai Technologies*
+
+Users demand rich experiences
+
+over course of day akamai deliver 750,000,000 jpgs a day
+
+Operational challenges delivering images
+- delivering to different densities, formats, compression rates, composition, etc..
+
+
+Ideal scenario
+- have original asset
+- all delivery will be automatic
+- best size, quality, format chosen
+
+Akamai Image Manager
+- upload raw images > automatic policy/rules -> delivery?
+
+
 
 #### Reflections on mountain moving, from the first year of USDS 
 *Mikey Dickerson - Federal Government | United States Digital Services Team*
