@@ -2,12 +2,10 @@
 
 ## DAY 1
 
-### Keynote
-
-#### Housekeeping
+### Housekeeping
 - leave feedback to speakers; rate
 
-#### Securing organizations through bad behavior
+### Securing organizations through bad behavior
 *Laura Bell [@lady_nerd](https://twitter.com/lady_nerd) - SafeStack*
 
 - security
@@ -23,7 +21,7 @@
 Feedback for speaker: Good awareness session on securing your app or system. She was entertaining and the metaphors (artisan box with a cat in it) she used in the beginning were carried successfully throughout her talk.
 
 
-#### Lessons learned for large-scale apps running in a hybrid cloud environment – Intuit’s journey
+### Lessons learned for large-scale apps running in a hybrid cloud environment – Intuit’s journey
 *Dana Quinn [@dquinn_devops](https://twitter.com/dquinn_devops) - Intuit*
 
 Intuit moved workloads to the cloud for the usual reasons of cheaper processing and more flexibility and he's explaining his lessons learned.
@@ -47,7 +45,7 @@ Intuit moved workloads to the cloud for the usual reasons of cheaper processing 
 Feedback for speaker: Decent content of the migration of workloads at Intuit. Could have used more key takeaways.
 
 
-#### Addressing operational challenges: Building a faster, highly available data tier for active workloads
+### Addressing operational challenges: Building a faster, highly available data tier for active workloads
 *Dave McCrory - Basho Technologies*
 
 - scale or fail!
@@ -58,7 +56,7 @@ Feedback for speaker: Decent content of the migration of workloads at Intuit. Co
   - growth effect through apps/services funneling all data somewhere
 
 
-#### Maintaining performance and reliability on the edge
+### Maintaining performance and reliability on the edge
 *Rob Peters [@rjpcal](https://twitter.com/rjpcal) - Verizon Digital Media Services*
 
 Verizon's Global Delivery Network
@@ -83,7 +81,7 @@ Key Takeaways
 Feedback for speaker: He spoke pretty fast so it was hard to keep up with and not sure he made his point across, but this could be that he only had 5 minutes to present.
 
 
-#### Engineering for the long game: Managing complexity in distributed systems
+### Engineering for the long game: Managing complexity in distributed systems
 *Astrid Atkinson [@shinynew_oz](https://twitter.com/shinynew_oz) - Google*
 
 Managing distributed systems over a really long time
@@ -141,13 +139,13 @@ Rules of the long game
 *Feedback for speaker: Informative speaker and good content about scaling challenges. She'd be a good contact for advice or someone to follow.*
 
 
-#### Not your parents' Microsoft
+### Not your parents' Microsoft
 *Jessica DeVita [@ubergeekgirl](https://twitter.com/ubergeekgirl) & Jennelle Crothers [@jkc137](https://twitter.com/jkc137) - Microsoft*
 
 Sponsored keynote just talking about how Microsoft is evolving -- not much content
 
 
-#### Prevent, rather than fix: How to scale to enable your customers
+### Prevent, rather than fix: How to scale to enable your customers
 *Jason Ding [@jding](https://twitter.com/jding) - Salesforce*
 
 Scalable Prevention
@@ -165,7 +163,7 @@ Scaling issues can be found through testing
 Feedback for speakers: Not so much valuble content, since it was a sponsored keynote. Lots of energy and some humorous slides/memes. I didn't need my coffee during this presentation.
 
 
-#### A practical type of empathy
+### A practical type of empathy
 *Indy Young [@indiyoung](https://twitter.com/indiyoung)*
 
 Empathy
@@ -194,7 +192,7 @@ Most of this content is about empthy and consideration for outside factors. Pret
 *Feedback for speaker: Pretty serious tone, could use a joke or two to lighten the mood. Most content designers would know about.*
 
 
-#### The performance and usability of font loading
+### The performance and usability of font loading
 *Zach Leatherman [@zachleat](https://twitter.com/zachleat) - Filament Group*
 
 @font-face
@@ -261,7 +259,7 @@ Takeaways
 - Thoughts about Flash of Faux Text http://www.zachleat.com/web/foft/
 - Can use the css font loading polyfill for the time being [https://github.com/bramstein/fontloader](https://github.com/bramstein/fontloader) [http://dev.w3.org/csswg/css-font-loading/](http://dev.w3.org/csswg/css-font-loading/)
 
-#### Design+Performance
+### Design+Performance
 *Steve Souders [@souders](https://twitter.com/souders) - SpeedCurve*
 
 Design / Devs are complementary forces to achieve same goal
@@ -307,7 +305,7 @@ Takeaways
 - define custom metrics
 
 
-#### Failure is an option
+### Failure is an option
 
 *Ian Malpass [@indec](https://twitter.com/indec) - Etsy*
 
@@ -364,7 +362,7 @@ Don't be timid to make changes
 Speed makes us safe
 
 
-#### Learn how to build your own cognitive applications with the IBM Watson Developer Cloud
+### Learn how to build your own cognitive applications with the IBM Watson Developer Cloud
 *Salil Ahuja [@salilahuja](https://twitter.com/salilahuja) - IBM*
 
 Watson creating APIs and used in the cloud
@@ -378,7 +376,7 @@ AlchemyData News
 Concept Insights
 
 
-#### Maintaining the biggest machine in the world with mobile apps
+### Maintaining the biggest machine in the world with mobile apps
 *Lucasz Pater [lukasz.pater@cern.ch](lukasz.pater@cern.ch) - CERN*
 
 CERN
@@ -417,11 +415,8 @@ No mention of hybrid -- perhaps a plug for MF? :)
 
 ## DAY 2
 
-### Keynote
-
-#### Ensuring a performant web for the next billion people
+### Ensuring a performant web for the next billion people
 *Bruce Lawson [@brucel](https://twitter.com/brucel) - Opera*
-
 
 4 billion people in asia
 Estimated to explode in growth even further
@@ -451,14 +446,14 @@ Reduction in features of content during process
 Opera Mini focuses on compression and compatibility
 
 
-#### Great, you're now a software company. Now what?
+### Great, you're now a software company. Now what?
 *Patrick Lightbody [@plightbo](https://twitter.com/plightbo) - New Relic*
 
 - All businesses are becoming a software companies
 - Social has transformed companies 
 
 
-#### Twenty thousands leagues inside the optical fiber 
+### Twenty thousands leagues inside the optical fiber 
 *Ariya Hidayat [@AriyaHidayat](https://twitter.com/AriyaHidayat) - Shape Security*
 
 Distance of communications can be a problem
@@ -475,7 +470,7 @@ Improving new fiber type can get 255 Tb/s over 1km (50 channels x 5.1 Tb/s)
 
 
 
-#### Beyond the hype cycle; bleeding edge for the enterprise 
+### Beyond the hype cycle; bleeding edge for the enterprise 
 *Shane Evans - Hewlett-Packard*
 
 QA & Testing has seen a growth spurt in enterprise
@@ -495,7 +490,7 @@ DevOps is a prerequisite for IoT
 Agile wasn't meant for enterprise, but can be
 
 
-#### Overcoming the challenges of image delivery 
+### Overcoming the challenges of image delivery 
 *Mohammed Aboul-Magd [@mohammedam](https://twitter.com/mohammedam) - Akamai Technologies*
 
 Users demand rich experiences
@@ -515,7 +510,7 @@ Akamai Image Manager
 - upload raw images > automatic policy/rules -> delivery?
 
 
-#### Reflections on mountain moving, from the first year of USDS 
+### Reflections on mountain moving, from the first year of USDS 
 *Mikey Dickerson - Federal Government | United States Digital Services Team*
 
 Healthcare.gov funding for 20m in 2015
@@ -527,7 +522,7 @@ Processes such as green card replacements or VA claims had vast improvement by p
 Not interested in being Bunjee bosses, not interested in making app for agency, then disappearing
 
 
-#### Measurement is not enough: The rise of performance analytics 
+### Measurement is not enough: The rise of performance analytics 
 *Buddy Brewer [@bbrewer](https://twitter.com/bbrewer) - SOASTA*
 
 Relationships between data and people
@@ -539,7 +534,7 @@ User's definition of performance is unique
 People's "languages" are different so it's important to create relationships of different meanings on performance
 
 
-#### Recruiting for diversity in tech 
+### Recruiting for diversity in tech 
 *Laine Campbell [@LaineVCampbell](https://twitter.com/LaineVCampbell) - Pythian*
 
 All employees are recruiting for a company (actively/passively), your actions, your language
@@ -560,7 +555,7 @@ meritocracy is broken
 businesses should have codes of conduct
 
 
-#### New ways to deploy and manage applications at scale
+### New ways to deploy and manage applications at scale
 *Kelsey Hightower [@kelseyhightower](https://twitter.com/kelseyhightower) - CoreOS*
 
 **How can the design team gain any takeways from this heavy operations presentation**
@@ -598,7 +593,7 @@ Real world demo time
 - impressive example of rolling out new app deployment using rolling upgrade with Canary(?) pattern
 
 
-#### Making continuous delivery a reality at a large enterprise 
+### Making continuous delivery a reality at a large enterprise 
 *Adam Auerbach [@bugman31](https://twitter.com/bugman31) - Capital One*
 
 Advanced Testing 
@@ -704,5 +699,57 @@ Other lessons learned
 - be prepared
 
 
-#### Engineering transformation: Everyone owns quality 
-Huseyin Dursun - VMware
+### Engineering transformation: Everyone owns quality 
+*Huseyin Dursun - VMware*
+
+Some background
+- VMWare release cadence 6/9/12 mo, quarterly service relesaes
+- transition to quarterly cadence for regular on-premise releases
+
+Goal is to increase the cadence
+
+Had traditional organization up until last year
+- vertical and overhead, working in silos
+
+Engineering Transformation
+What are we doing
+- quality is everyone's responsibility
+- system centric rather than feature/func-centric
+- moving func validation responsibility to developer
+- forming engineering services/opertaions layers/teams to validation coverage and production support
+
+Why are we doing it?
+- achieving enterprise grade quality
+- right level of coverage
+- predictability
+- transform to prepare for cloud
+
+Transition from traditional model
+- many checks and balances (pic on phone) 
+
+Specialized engineers for various components of development
+
+Before transformation, need a baseline template in place first
+
+Delivery pipeline: desktop to cloud
+- vmware is using almost all their products for this process
+- Code Stream, Orchestrator, Automation, Operations, Log Insight, etc.
+
+Exploratory Testing
+- new model has no room for manual testing
+
+Cultural Transformation stages
+- denial > resistance > commitment > exploration
+
+Takeaways
+- no perfet time for transformation
+- piloting helps, not a panacea
+- identify potential candidates for specialized roles early
+- no over communication; keep evangelizing
+- have backup plan dealing with backlog issue
+- metrics, necessary but not sufficient
+
+
+### PARKING LOT
+- Lots of mentions of automated testing in relation with continuous cycle: Should designers give requirements early to dev team before wireframes come out? Do they already do?
+
