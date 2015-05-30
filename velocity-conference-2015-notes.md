@@ -700,7 +700,7 @@ Other lessons learned
 
 
 ### Engineering transformation: Everyone owns quality 
-*Huseyin Dursun - VMware*
+*Huseyin Dursun [@hsyndrsn](https://twitter.com/hsyndrsn) - VMware*
 
 Some background
 - VMWare release cadence 6/9/12 mo, quarterly service relesaes
@@ -750,6 +750,127 @@ Takeaways
 - metrics, necessary but not sufficient
 
 
+### The path to performance 
+*Katie Kovalcin [@katiekovalcin](https://twitter.com/katiekovalcin) - Sparkbox*
+
+Demise of beauty that doesn't perform
+
+Common thought is that performance is a dev issue, but performance should be considered throughout the design process
+
+Performance is a culture challenge, not a technical challenge
+pathtoperf.com
+
+Survey findings
+- most feel empowered to create change in their org
+- over half are currently prioritizing performance
+- advocacy is not adequate
+
+Clients don't value performance
+- should be educated about why it's important
+- take the time to talk about perf at first contact
+- use data to validate your point; comparison against competitors
+
+Aesthetic heavy designers
+- designers should work with developers early on
+- ideate and work out potential perf issues
+
+
+Establish a performance budget
+- page weight
+  - example: 400kbps (100k fonts, 50k CSS, 50k JS, etc..)
+- start render
+- fully loaded
+
+Designers should be sure that there are some performance guidelines that the team follows throughout the design/dev process
+
+### Speeding up the PlayStation 4 user interface - web performance optimization outside the browser 
+JP Castro [@jphpsf](https://twitter.com/jphpsf) - Sony
+
+Playstation UI is composed of Native OS + Webstack
+
+Top Menu is Native OS
+
+What's New content is web stack
+
+Details of Game area is all web stack
+
+Playstation Store view is web stack
+- Not HTML nodes, uses webGL and canvas
+
+PS4 UI Architecture layers
+- ps4 hardware
+- native ui (ps4 os
+- web view (webkit)
+- web app (js+webgl)
+
+Using web tech on UI due to tested standards/strong community
+Uses requirejs, grunt, karma, mocha, etc.
+
+RUM is awesome
+- measure UI & network latency with real users
+- understand perf on prod
+- identify bottlenecks & drive critical improvements
+
+How to measure
+- use js (capture timings)
+- leverage w3c perf apis
+- report when measure screen is done rendering
+- Do they use performance.timing? Yep.
+- Uses Navigation Timing API
+
+
+Server-side stack
+- PS -> nginx -> kafka -> ...
+
+Tools using for profiling/monitoring
+
+Beyond standard perf APIs
+
+Measuring startup process
+- custom APIs that look like JS based (window.playstation.performance() ...)
+
+Measuring application side
+- Using performance timing JS api
+
+Custom Profiling Tools
+- Sparrow (profiling)
+
+Optimizations & Lessons Learned
+- perf 101: using common best practices of web perf
+- Remove redirects
+
+PS4 Cache
+- PS4 doesn't have disk cache
+- HTML5 App Cache is great alternative
+
+Application Cache DB grows over time, ran into problem due to their own unique URLs
+
+LocalStorage use
+
+Precompile templates
+- UI templates = XML templates
+- precompile at build time to shave off time render
+
+Parellelize
+- tries to create as many things async as they can
+
+Business Impact
+- Community feedback was favorable
+
+Analytics
+- need improvements
+
+Share what you learn with your team
+
+Takeaways
+- made UI much faster
+- added RUM
+- measure, optimize, verify
+- setup reliable metrics/analytics
+- evangelize with company/peers 
+
 ### PARKING LOT
 - Lots of mentions of automated testing in relation with continuous cycle: Should designers give requirements early to dev team before wireframes come out? Does this already happen?
+
+- Trend in all sorts of companies using HTML5/JS instead of full native apps such as CERN, PlayStation
 
